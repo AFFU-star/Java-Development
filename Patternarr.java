@@ -16,7 +16,7 @@
 
 // Two  dimensional  array with rows and columns.
 
-// Define a class named Main.
+// Define a class named Patternarr.
 public class Patternarr {
     // The main method where the program execution starts.
     public static void main(String[] args) {   
